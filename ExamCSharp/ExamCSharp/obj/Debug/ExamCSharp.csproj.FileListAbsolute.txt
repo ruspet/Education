@@ -1,0 +1,7 @@
+C:\Users\Денис\source\repos\ExamCSharp\ExamCSharp\bin\Debug\ExamCSharp.exe.config
+C:\Users\Денис\source\repos\ExamCSharp\ExamCSharp\bin\Debug\ExamCSharp.exe
+C:\Users\Денис\source\repos\ExamCSharp\ExamCSharp\bin\Debug\ExamCSharp.pdb
+C:\Users\Денис\source\repos\ExamCSharp\ExamCSharp\obj\Debug\ExamCSharp.csprojAssemblyReference.cache
+C:\Users\Денис\source\repos\ExamCSharp\ExamCSharp\obj\Debug\ExamCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Денис\source\repos\ExamCSharp\ExamCSharp\obj\Debug\ExamCSharp.exe
+C:\Users\Денис\source\repos\ExamCSharp\ExamCSharp\obj\Debug\ExamCSharp.pdb
